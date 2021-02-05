@@ -1,2 +1,0 @@
-# training
-used for learning
